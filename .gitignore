@@ -1,0 +1,8 @@
+#Ignora a pasta temp e todos os arquivos dentro dela
+temp/ 
+
+#Ignora todos os arquivos .txt
+*.txt
+
+#Ignora um arquivo expecifico
+teste.txt
